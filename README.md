@@ -1,10 +1,17 @@
 ## Hi there 👋
 
-[![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats)
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats)](https://github.com/Echoslayer/github-readme-stats)
+<p align="center">
+  [![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats)](https://github.com/Echoslayer/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact)](https://github.com/Echoslayer/github-readme-stats)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact)](https://github.com/Echoslayer/github-readme-stats)
+
+
 
 
 <!--
