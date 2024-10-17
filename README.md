@@ -1,15 +1,26 @@
 ## Hi there 👋
+## Hi there 👋
 
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://steamuserimages-a.akamaihd.net/ugc/2274945577047540920/F399E3B88ED93CDFC40C8AFCDF67A91AE5983408/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats" alt=""></a>
-  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats" alt=""></a>
-  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact" alt=""></a>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Echoslayer&show_icons=true" alt="Wizard's GitHub stats" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Echoslayer/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats" alt="Readme Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Echoslayer/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact" alt="Top Langs" />
+  </a>
+</p>
+
 
 
 
