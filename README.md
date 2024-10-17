@@ -2,7 +2,7 @@
 
 [![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats)
 
-![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslayer&count_private=true)
 
 <!--
 **Echoslayer/Echoslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
