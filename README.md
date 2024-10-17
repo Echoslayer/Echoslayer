@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  [![Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats)](https://github.com/Echoslayer/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact)](https://github.com/Echoslayer/github-readme-stats)
+  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api?username=Echoslayer)](https://github.com/Echoslayer/github-readme-stats" alt=""></a>
+  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats" alt=""></a>
+  <a href="https://github.com/Echoslayer/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact" alt=""></a>
+ 
 </p>
 
 
@@ -27,4 +28,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![Wizard's GitHub stats]()
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats)](https://github.com/Echoslayer/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact)](https://github.com/Echoslayer/github-readme-stats)
 -->
+
+
