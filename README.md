@@ -10,11 +10,6 @@
   </div>
   <div style="display: inline-block; margin-left: 20px;">
     <a href="https://github.com/Echoslayer/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Echoslayer&repo=github-readme-stats" alt="Readme Card" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin-left: 20px;">
-    <a href="https://github.com/Echoslayer/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echoslayer&layout=compact" alt="Top Langs" />
     </a>
   </div>
